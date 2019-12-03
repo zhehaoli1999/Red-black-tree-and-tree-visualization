@@ -21,9 +21,9 @@ For example, the meaning of ``(8,9)|9|26`` is ``interval|size|max``
 + size: the number of node in the subtree with the current node as its root.
 + max: the max interval.high in the subtree with the current node as its root.
 
-(If you have no idea what this properties mean, check out textbook "Introduction to Algorithms")
+(If you have no idea what these properties mean, please go and check out textbook "Introduction to Algorithms".)
 
-This image is drawn using graphviz. The information of this image is saved in ``interval_tree.gv``. 
+The image above is drawn using graphviz and the information of this image is saved in ``interval_tree.gv``. 
 
 Here is another more complicated order search tree. the ``44|63`` in root node means ``value|size``
 
