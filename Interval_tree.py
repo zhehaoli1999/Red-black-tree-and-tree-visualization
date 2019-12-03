@@ -1,3 +1,7 @@
+######################################
+# @auther: Richard Li from USTC, China
+######################################
+
 from RBtree import *
 from order_search_tree import *
 

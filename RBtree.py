@@ -1,3 +1,7 @@
+######################################
+# @auther: Richard Li from USTC, China
+######################################
+
 class Node:
     def __init__(self, value=None, color ='b', p=None, left=None, right=None):
         self.value = value
