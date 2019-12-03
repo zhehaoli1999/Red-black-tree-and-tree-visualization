@@ -13,7 +13,8 @@ Hi there! Here is my code with detailed comments for red-black Tree, order searc
 
 ## How to draw the tree
 ![](./imgs/tree2.png)
-Here is the image of the interval tree that drawn using graphviz. 
+
+Here is the image of a interval tree drawn using graphviz. 
 
 For example, the meaning of ``(8,9)|9|26`` is ``interval|size|max``
 
