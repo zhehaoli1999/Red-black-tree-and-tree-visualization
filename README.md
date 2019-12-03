@@ -8,8 +8,27 @@ Hi there! Here is my code with detailed comments for red-black Tree, order searc
 
 ## What I implemented
 1. Read-black tree in [``RBtree.py``](./code/RBtree.py)
+    + insert
+    + delete
+    + search
+    + draw 
+
 2. Order search tree in [``order_search_tree.py``](./code/order_search_tree.py)
-3. Interval_tree in [``Interval_tree.py``](./code/Interval_tree.py)
+    + insert
+    + delete
+    + search
+    + draw 
+    + select the i-least element
+
+3. Interval tree in [``Interval_tree.py``](./code/Interval_tree.py)
+    + insert
+    + delete
+    + search
+    + draw 
+    + select the i-least element
+    + search first overlap interval
+
+The relationship of inheritance is: Interval tree -> Order search tree -> Read-black tree
 
 ## How to draw the tree
 ![](./imgs/tree2.png)
