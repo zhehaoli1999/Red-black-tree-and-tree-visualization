@@ -7,9 +7,9 @@ Hi there! Here is my code with detailed comments for red-black Tree, order searc
 3. (choose) numpy: in ``test.py`` I used ``numpy.random.randint``, but of course you can just use module ``random`` instead.
 
 ## What I implemented
-1. Read-black tree in ``RBtree.py``
-2. Order search tree in ``order_search_tree.py``
-3. Interval_tree in ``Interval_tree.py``
+1. Read-black tree in [``RBtree.py``](./code/RBtree.py)
+2. Order search tree in [``order_search_tree.py``](./code/order_search_tree.py)
+3. Interval_tree in [``Interval_tree.py``](./code/Interval_tree.py)
 
 ## How to draw the tree
 ![](./imgs/tree2.png)
@@ -33,3 +33,8 @@ Here is another more complicated order search tree. the ``44|63`` in root node m
 This repository is of MIT lisence.
 
 Author is Richard Li from USTC, China.
+
+## Last but not least
+If you find any bug, feel free to fix it and create pull request.
+
+If you like it, click on the "star"! Thx.
